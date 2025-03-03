@@ -10,4 +10,6 @@ Este proyecto utiliza Streamlit y Plotly para crear una aplicación web interact
   
 - **Gráfico de Dispersión**: Al hacer clic en otro botón, la aplicación genera un gráfico de dispersión que visualiza la relación entre el "odometer" y el "price" (precio) de los vehículos.
 
+## Enlace a la aplicación
+Puedes ver la aplicación desplegada en: [Render](https://proyecto-7-tripleten.onrender.com)
 
